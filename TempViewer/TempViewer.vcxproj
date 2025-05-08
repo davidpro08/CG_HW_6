@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\EmptyViewer\Q1.cpp" />
     <ClCompile Include="..\EmptyViewer\Q2.cpp" />
     <ClCompile Include="..\EmptyViewer\Q3.cpp" />
   </ItemGroup>
