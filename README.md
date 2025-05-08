@@ -1,4 +1,4 @@
-# CG_HW_2
+# CG_HW_6
 
 ## 파일 실행 방법
 1. 파일을 다운 받고 압축을 푼다.![image](https://github.com/user-attachments/assets/08a30313-8ccb-4b8b-8efa-78468e303465)
